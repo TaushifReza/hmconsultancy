@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>AJ Education Consultancy</title>
+    <!-- favicon -->
+    <link
+      rel="icon"
+      href="assets/img/favicon.ico"
+      sizes="20x20"
+      type="image/png"
+    />
+    <!-- animate -->
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <!-- Nice Select -->
+    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <!-- Odomiters css -->
+    <link rel="stylesheet" href="assets/css/odometer.css" />
+    <!-- fontawesome -->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    <!-- Slick Slider -->
+    <link rel="stylesheet" href="assets/css/slick.css" />
+    <!-- Date Picker -->
+    <link rel="stylesheet" href="assets/css/datepicker.min.css" />
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <!-- Responsive Css -->
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <!-- Add the Font Awesome CDN link below -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <main class="page-wrapper">
+      <!-- nav area start here -->
+      <div class="nav-area-wrapper-relative">
+        <nav class="navbar navbar-area navbar-expand-lg navigation-style-02">
+          <div class="container custom-container custom-container-01">
+            <div class="responsive-menu">
+              <div class="logo-wrapper">
+                <a href="index.html" class="logo">
+                  <img
+                    src="assets/img/Logos/logo1.png"
+                    alt="Logo"
+                    style="width: 80px"
+                  />
+                </a>
+              </div>
+              <button
+                class="navbar-toggler navbar-bs-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#themeim_main_menu"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+            </div>
+            <div class="collapse navbar-collapse" id="themeim_main_menu">
+              <ul class="navbar-nav">
+                <li>
+                  <a href="index.html">Home</a>
+                </li>
+
+                <li><a href="about-us.html">About Us</a></li>
+
+                <li><a href="our-team.html">Chairman</a></li>
+
+                <li><a href="contact-us.html">Contact Us</a></li>
+              </ul>
+            </div>
+            <div class="nav-right-content"></div>
+          </div>
+        </nav>
+      </div>
+      <!-- nav area end here -->
+
+      <div class="error-wrapper">
+        <div class="container custom-container-01">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="error-inner" style="margin-top: 0; padding-top: 0">
+                <div class="row align-items-center row-reverse">
+                  <div class="offset-lg-1 col-lg-5">
+                    <div class="content">
+                      <h5 class="title">404</h5>
+                      <span class="text"
+                        >Don’t panic, we won’t need to put it in nice.</span
+                      >
+                      <div class="btn-wrap">
+                        <a
+                          href="index.html"
+                          class="btn-common add-to-cart btn-active"
+                          >Back to homepage</a
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <img src="assets/img/404/01.png" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Jquery Js -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- magnific popup -->
+    <script src="assets/js/jquery.magnific-popup.js"></script>
+    <!-- wow -->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- Nice Select -->
+    <script src="assets/js/jquery.nice-select.js"></script>
+    <!-- countdown -->
+    <script src="assets/js/jquery.countdown.min.js"></script>
+    <!-- semantic -->
+    <script src="assets/js/datepicker.min.js"></script>
+    <script src="assets/js/active.datepicker.min.js"></script>
+    <!-- Odomiters -->
+    <script src="assets/js/odometer.min.js"></script>
+    <!-- Viewport Js -->
+    <script src="assets/js/viewport.jquery.js"></script>
+    <!-- slick Js -->
+    <script src="assets/js/slick.min.js"></script>
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
